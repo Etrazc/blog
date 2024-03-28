@@ -73,7 +73,7 @@ name = "Label"
 weight = 3
 
 [[menu.main]]
-url = "/link.md"
+url = "/links/link"
 name = "Proyek"
 weight = 4
 

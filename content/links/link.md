@@ -1,9 +1,14 @@
 ---
 title: "Tautan"
 date: 2024-03-19T22:32:45+07:00
-description: "Tautan Proyek"
+description: "Eirmod sed erat nonumy diam et ut, est sit dolor duo invidunt dolore et magna."
+tags: []
+featured_image: ""
+# images is optional, but needed for showing Twitter Card
+images: []
+categories:
 comment: false
-draft: false
+draft: true
 ---
 
 #### Website
