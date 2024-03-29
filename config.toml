@@ -19,24 +19,40 @@ theme = "diary"
 
 [params]
 subtitle = "Welcome..!!"
-favicon = "favicon.ico"
-enableGitalk = false
-enableGiscus = true
+favicon = "images/et.ico"
 
-# Microsoft Clarity (https://clarity.microsoft.com/) is a free user behavior recording and analytics tool
-clarity = "lj2f3iv3tx"
+# Fitur
+enableReadingTime=true
+enableLaTeX=false
+
+# Analisa
+googleSearchCode = "3629ef8d22cc44f84"
+clarity = "lj2f3iv3tx" # Microsoft Clarity is a free user behavior recording and analytics tool
 
 # Twitter Card and Open Graph settings
 enableOpenGraph = true
 enableTwitterCards = true
 title = "Etrazc Blog" # will set 'og:site_name'
-description = "My HomePage Description"  # will set 'og:description'
+description = "Hi! Etrazc here"  # will set 'og:description'
+
+# Komentar
+enableGitalk = false
+enableGiscus = false
+enableUtterances = true
+walineServer = "" # https://waline-ten-psi.vercel.app
 
 [params.gitalk]
   owner = "user"
   repo = "repo name"
   client_id = "your client id"
   client_secret = "your client secret"
+
+[params.utterances]
+  repo="Etrazc/etrazc.github.io"
+  term="Blog"
+  label="Comment"
+  theme="github-light"
+
 [taxonomies]
    tag = "tags"
    category = "categories"
@@ -73,7 +89,7 @@ name = "Label"
 weight = 3
 
 [[menu.main]]
-url = "/links/link"
+url = "/posts/links"
 name = "Proyek"
 weight = 4
 

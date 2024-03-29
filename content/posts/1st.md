@@ -5,9 +5,9 @@ description: "Eirmod sed erat nonumy diam et ut, est sit dolor duo invidunt dolo
 tags: ["Markdown", "Tips", "Cheat Sheet"]
 featured_image: "/images/markdown.jpg"
 # images is optional, but needed for showing Twitter Card
-images: ["/images/markdown.jpg"]
+images: ["/images/post/markdown.jpg"]
 categories: Guide
-comment: false
+comment: true
 draft: false
 ---
 

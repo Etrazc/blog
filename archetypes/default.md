@@ -4,10 +4,9 @@ date: {{ .Date }}
 description: ""
 tags: []
 featured_image: ""
-# images is optional, but needed for showing Twitter Card
-images: []
+images: [] # gambar opsional, tapi diperlukan utk menampilkan Kartu Twitter
 categories:
 comment: true
-draft: true
+draft: false
 ---
 
