@@ -3,7 +3,7 @@ title: "Lembar Tips Markdown"
 date: 2024-03-19T22:32:45+07:00
 description: "Eirmod sed erat nonumy diam et ut, est sit dolor duo invidunt dolore et magna."
 tags: ["Markdown", "Tips", "Cheat Sheet"]
-featured_image: "/images/markdown.jpg"
+featured_image: "/images/post/markdown.jpg"
 # images is optional, but needed for showing Twitter Card
 images: ["/images/post/markdown.jpg"]
 categories: Guide
